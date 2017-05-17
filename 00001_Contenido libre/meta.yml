@@ -1,0 +1,18 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: 
+teacher_info: 
+manual_evaluation: false
+choices:
+- value: Usarlo comercialmente
+  checked: true
+- value: Cambiar su licencia
+  checked: false
+- value: Usarlo sin mencionar al autor original
+  checked: false
+- value: Distribuir nuevas versiones del contenido con tus propias modificaciones
+  checked: true
